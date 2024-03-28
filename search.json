@@ -1,0 +1,102 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "tidytuesday006",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "tidytuesday006"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "tidytuesday006",
+    "section": "Install",
+    "text": "Install\npip install tidytuesday006",
+    "crumbs": [
+      "tidytuesday006"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "tidytuesday006",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "tidytuesday006"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "core.html#first-try",
+    "href": "core.html#first-try",
+    "title": "core",
+    "section": "first try",
+    "text": "first try",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "core.html#second-try",
+    "href": "core.html#second-try",
+    "title": "core",
+    "section": "second try",
+    "text": "second try",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "core.html#third-try",
+    "href": "core.html#third-try",
+    "title": "core",
+    "section": "third try",
+    "text": "third try\n\n## Fix some columns\nshow(team_results, buttons=[\n        \"pageLength\",\n        {\"extend\": \"csvHtml5\", \"title\": \"team_results\"},\n        {\"extend\": \"excelHtml5\", \"title\": \"team_results\"},\n    ], fixedColumns={\"start\": 1, \"end\": 2},scrollX=True,)\n\n\n\n\n\n\n    \n      \n      TEAMID\n      TEAM\n      PAKE\n      PAKERANK\n      PASE\n      PASERANK\n      GAMES\n      W\n      L\n      WINPERCENT\n      R64\n      R32\n      S16\n      E8\n      F4\n      F2\n      CHAMP\n      TOP2\n      F4PERCENT\n      CHAMPPERCENT\n    \n  Loading... (need help?)\n\n\n\n\n\n\n\nshow(\n   team_results,\n    layout={\"top1\": \"searchPanes\"},\n    searchPanes={\"layout\": \"columns-3\", \"cascadePanes\": True}\n)\n\n\n\n\n\n\n    \n      \n      TEAMID\n      TEAM\n      PAKE\n      PAKERANK\n      PASE\n      PASERANK\n      GAMES\n      W\n      L\n      WINPERCENT\n      R64\n      R32\n      S16\n      E8\n      F4\n      F2\n      CHAMP\n      TOP2\n      F4PERCENT\n      CHAMPPERCENT\n    \n  Loading... (need help?)\n\n\n\n\n\n\n\nshow(\n    team_results, layout={\"top1\": \"searchBuilder\"}\n)\n\n\n\n\n\n\n    \n      \n      TEAMID\n      TEAM\n      PAKE\n      PAKERANK\n      PASE\n      PASERANK\n      GAMES\n      W\n      L\n      WINPERCENT\n      R64\n      R32\n      S16\n      E8\n      F4\n      F2\n      CHAMP\n      TOP2\n      F4PERCENT\n      CHAMPPERCENT\n    \n  Loading... (need help?)",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "core.html#first-try-1",
+    "href": "core.html#first-try-1",
+    "title": "core",
+    "section": "first try",
+    "text": "first try",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "core.html#second-try-1",
+    "href": "core.html#second-try-1",
+    "title": "core",
+    "section": "second try",
+    "text": "second try",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "core.html#third-try-1",
+    "href": "core.html#third-try-1",
+    "title": "core",
+    "section": "third try",
+    "text": "third try",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
